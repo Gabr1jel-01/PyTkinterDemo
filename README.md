@@ -1,0 +1,2 @@
+# PyTkinterDemo
+ Ponavljanje za parcijalni
